@@ -1,0 +1,201 @@
+
+
+<!DOCTYPE html>
+<html lang="br">
+<head>
+  <title>Greve da Polícia Militar 2017</title>
+  <meta charset="utf-8">
+  <link rel="shortcut icon" href="http://www.focusconcursos.com.br/focus-online/lib/php/image.php?image=skin/upload/2017030915582651.png&height=1000" type="image/x-png">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://crisepms.github.io/css/main.css">
+<style>
+  body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+footer a {
+  padding: 5px;
+}
+
+.navbar {
+    margin-bottom: 0;
+    background-color: #d9d9d9;
+    border: 0;
+    line-height: 1.42857143 !important;
+    border-radius: 0;
+    padding: 20px;
+}
+  
+.navbar li a {
+    color: #000 !important;
+}
+  
+.navbar .navbar-brand {
+    color: #000 !important;
+    font-size: 32px;
+}
+  
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #8892cc !important;
+    text-decoration: underline;
+    background-color: #fcfcfc !important;
+}
+  
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fcfcfc !important;
+}
+
+.imgeu {
+  margin-top: 0px;
+  padding: 30px;
+}
+   
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://raw.githubusercontent.com/jotexe/trabalho/master/imagens/headerCAPA.png');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+}
+
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 700;
+  text-shadow: 0px 2px #191919;
+  margin: 0;
+  color: #fff;
+}
+
+.jumbotron h3 {
+  text-shadow: 0px 2px black;
+  margin: 0 0 20px;
+  color: #fff;
+}
+
+.jota {
+  font-size: 17px;
+}
+
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
+}
+
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #d9d9d9;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: white;
+}
+
+</style>
+</head>
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
+    <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#myPage"><b>{ Greve PM - TIIMI IFES Serra }</b></a>
+    </div>
+    <ul>
+      <li><a href="#">Polícia nos EUA</a></li>
+      <li><a href="#">AudioVisual</a></li>
+      <li><a href="#">Sobre</a></li>
+    </ul>
+    </div>
+  </nav>
+  <br><br><br><br>
+    
+  <section class="jumbotron">
+    <div class="container">
+      <div class="row text-center">
+        <h2>Greve da PM de 2017</h2>
+        <h3>Espírito Santo</h3>     
+      </div>
+    </div>
+  </section>
+
+  <section id="sobre" class="container">
+    <div class="row">
+      
+      <div class="col-sm-4">
+        
+      </div>
+      
+    </div>
+  </section>
+
+  <section id="a" class="container">
+  <div class="row">
+    <div class="col-sm-12" id="port">
+    <h1>Diferenças entre a polícia do Brasil e dos EUA</h1>
+    <p class="jota">Quais são as diferenças entre as Polícias?
+
+       A principal diferença entre as duas polícias é que, a polícia dos Estados Unidos é mais compacta. O número de divisões e cargos dentro da polícia dos Estados Unidos é consideravelmente menor que o do Brasil. Isso acaba reduzindo os gastos públicos com a segurança pública.  
+  No Brasil, existem 3 divisões principais da Polícia. A Polícia Militar, que tem o objetivo de reprimir e evitar crimes mantendo a ordem, A Polícia Civil, que trabalha com a parte investigativa após a constatação de um crime com a ajuda da científica, que faz os trabalhos de perícia e análises técnicas, e a Polícia Federal, que é basicamente como a Polícia Civil, porém, trabalham com crimes de porte nacional, como imigração, tráfico e fraudes de corrupção do governo.
+  Nos Estados Unidos, a divisão da polícia é municipal, diferente da divisão do Brasil que é estadual.
+Diferença Salarial</p>
+
+ <p class="jota">     Segundo o Departamento do Trabalho dos EUA, o policial estadunidense está entre os melhores remunerados. Os oficiais de polícia iniciantes podem receber salários mais elevados, chegando a US$ 54.000 dependendo do nível de criminalidade da área que ele atua. Isso acontece pois cidades diferentes possuem necessidades distintas para serem atendidas e, dependendo da cidade, o trabalho pode exigir mais dos policiais. ‘‘No geral, o salário médio anual dos policiais é de US$ 47.460, com a média de 50% que ganham entre US$ 35.600 e US$ 59.880. Não obstante, há significativa diferença entre os 10% que ganham menos de US$ 27.310, e os 10% que ganham mais de US$ 72.450. Assim, dependendo da esfera de governo em que se trabalha, pode-se ganhar quantidades diferentes.’’ - Alexandre Pereira da Rocha(Cientista Político).
+  No Brasil, dependendo do estado em que o policial trabalha, o salário varia. Em 2012 No Distrito Federal, um policial militar tinha o piso salarial dera aproximadamente R$ 4.700,00. Enquanto que em Roraima, o piso salarial de um policial militar era de aproximadamente R$ 801,40. 
+  Salários baixos, desvalorização da profissão e condições de trabalho ruins são motivos de reivindicações, porém, no Brasil, os policiais são proibidos de fazerem greve pelas consequências que esse tipo de movimento pode acarretar. Mas, em fevereiro de 2017 no Espírito Santo, os Policiais Militares fizeram uma greve indireta, o que acarretou certas consequências como lojas sendo saqueadas e arrastões em algumas regiões do estado. 
+  Nos Estados Unidos, quando os policiais precisam realizar uma greve, eles praticam o chamado “Blue Flu” que traduzindo ao pé da letra seria algo como “Gripe Azul”. Os policiais faltam o trabalho dizendo estarem “doentes”, eles não podem fazer greve, mas podem ficar doentes.
+</p>
+    </div>
+
+  </div>
+    
+<br><br><br>
+  <div>
+  <center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6d4wvSJ42TU" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/z5YbnDR5T48" frameborder="0" allowfullscreen></iframe>
+  </center>
+  </div>
+    
+    
+
+  </section>
+  <footer id="cont" class="container"> 
+    <div class="row">
+    <div class="col-sm-4">  
+      
+    </div>
+  
+    </div>
+    
+  </footer>
+</body>
+</html>
